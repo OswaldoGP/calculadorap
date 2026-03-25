@@ -52,4 +52,7 @@ input.addEventListener("input", () => {
     owner.value = padded[0];
     group.value = padded[1];
     others.value = padded[2];
+
+    
 });
+
